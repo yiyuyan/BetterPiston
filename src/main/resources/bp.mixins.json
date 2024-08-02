@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.bp.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "bp.refmap.json",
+  "mixins": [
+    "PistonMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
