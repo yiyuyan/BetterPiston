@@ -5,7 +5,8 @@
   "compatibilityLevel": "JAVA_8",
   "refmap": "bp.refmap.json",
   "mixins": [
-    "PistonMixin"
+    "PistonMixin",
+    "PistonMovingBlockEntityMixin"
   ],
   "client": [
   ],
